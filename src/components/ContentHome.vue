@@ -8,10 +8,6 @@
             class="h-screen"
             alt="wordmark"
           />
-          <img
-            src="../assets/images/cover-art/kstramat_bw.jpg"
-            alt="1kfa art kastramat"
-          />
         </div>
 
         <div class="flex flex-col md:flex-row md:p-8">
@@ -44,7 +40,7 @@
         </p>
         <router-link
           to="/examples"
-          class="bg-green-600 text-white px-4 py-2 rounded mt-8"
+          class="bg-green-700 text-white px-4 py-2 rounded mt-8"
         >
           Check out the examples
         </router-link>
