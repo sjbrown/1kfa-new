@@ -1,94 +1,92 @@
 <template>
-  <main class="container mx-auto">
-    <h1 class="text-center mt-20 mb-10">What's inside the kit?</h1>
-    <section class="flex flex-col justify-center mb-20">
-      <h2 class="text-center mb-10">Player's guide</h2>
-      <article class="grid md:grid-flow-col justify-items-center mt-10">
-        <div class="book-container mb-20">
-          <div class="book">
-            <img
-              alt="A thousand faces of adventure cover for player"
-              src="https://github.com/sjbrown/1kfa/blob/master/images_src/jeremyadams.jpg?raw=true"
-            />
-          </div>
+  <h1 class="text-center mt-20 mb-10">What's inside the kit?</h1>
+  <section class="flex flex-col justify-center mb-20">
+    <h2 class="text-center mb-10">Player's guide</h2>
+    <article class="grid md:grid-flow-col justify-items-center mt-10">
+      <div class="book-container mb-20">
+        <div class="book">
+          <img
+            alt="A thousand faces of adventure cover for player"
+            src="https://github.com/sjbrown/1kfa/blob/master/images_src/jeremyadams.jpg?raw=true"
+          />
         </div>
-        <div class="flex flex-col items-center">
-          <div class="m-4">
-            <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
-              Download HTML
-            </a>
-          </div>
-          <div class="m-4">
-            <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
-              Download PDF
-            </a>
-          </div>
-          <div class="m-4">
-            <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
-              Download Phone PDF
-            </a>
-          </div>
-        </div>
-      </article>
-    </section>
-    <section class="flex flex-col justify-center mb-20">
-      <h2 class="text-center mb-10">Game master's guide</h2>
-      <article class="grid md:grid-flow-col justify-items-center mt-10">
-        <div class="book-container mb-20">
-          <div class="book">
-            <img
-              alt="A thousand faces of adventure cover for GM"
-              src="https://github.com/sjbrown/1kfa/blob/master/images_src/AnaNarajo_darkcrystals_RGB.jpg?raw=true"
-            />
-          </div>
-        </div>
-        <div class="flex flex-col items-center">
-          <div class="m-4">
-            <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
-              Download HTML
-            </a>
-          </div>
-          <div class="m-4">
-            <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
-              Download PDF
-            </a>
-          </div>
-          <div class="m-4">
-            <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
-              Download Phone PDF
-            </a>
-          </div>
-        </div>
-      </article>
-    </section>
-    <section class="flex flex-col justify-center mb-20">
-      <h2 class="text-center mb-10">Print-and-play cards</h2>
-      <article class="grid md:grid-flow-col justify-items-center">
-        <img
-          src="../assets/images/cards/move_pick_pockets.png"
-          alt="bracers card"
-          class="p-4"
-        />
-        <img
-          src="../assets/images/cards/equip_bracers.png"
-          alt="bracers card"
-          class="p-4"
-        />
-        <img
-          src="../assets/images/cards/magic_air_sculpting.png"
-          alt="bracers card"
-          class="p-4"
-        />
-      </article>
-    </section>
-    <section class="grid justify-center mb-20">
-      <div>
-        <a class="bg-green-700 text-white px-20 py-2 rounded"
-          >Download the full kit</a
-        >
       </div>
-    </section>
-  </main>
+      <div class="flex flex-col items-center">
+        <div class="m-4">
+          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+            Download HTML
+          </a>
+        </div>
+        <div class="m-4">
+          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+            Download PDF
+          </a>
+        </div>
+        <div class="m-4">
+          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+            Download Phone PDF
+          </a>
+        </div>
+      </div>
+    </article>
+  </section>
+  <section class="flex flex-col justify-center mb-20">
+    <h2 class="text-center mb-10">Game master's guide</h2>
+    <article class="grid md:grid-flow-col justify-items-center mt-10">
+      <div class="book-container mb-20">
+        <div class="book">
+          <img
+            alt="A thousand faces of adventure cover for GM"
+            src="https://github.com/sjbrown/1kfa/blob/master/images_src/AnaNarajo_darkcrystals_RGB.jpg?raw=true"
+          />
+        </div>
+      </div>
+      <div class="flex flex-col items-center">
+        <div class="m-4">
+          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+            Download HTML
+          </a>
+        </div>
+        <div class="m-4">
+          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+            Download PDF
+          </a>
+        </div>
+        <div class="m-4">
+          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+            Download Phone PDF
+          </a>
+        </div>
+      </div>
+    </article>
+  </section>
+  <section class="flex flex-col justify-center mb-20">
+    <h2 class="text-center mb-10">Print-and-play cards</h2>
+    <article class="grid md:grid-flow-col justify-items-center">
+      <img
+        src="../assets/images/cards/move_pick_pockets.png"
+        alt="bracers card"
+        class="p-4"
+      />
+      <img
+        src="../assets/images/cards/equip_bracers.png"
+        alt="bracers card"
+        class="p-4"
+      />
+      <img
+        src="../assets/images/cards/magic_air_sculpting.png"
+        alt="bracers card"
+        class="p-4"
+      />
+    </article>
+  </section>
+  <section class="grid justify-center mb-20">
+    <div>
+      <a class="bg-green-700 text-white px-20 py-2 rounded"
+        >Download the full kit</a
+      >
+    </div>
+  </section>
 </template>
 <script>
 export default {

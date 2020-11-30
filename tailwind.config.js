@@ -12,7 +12,15 @@ module.exports = {
       'sans': ['Titillium Web']
     },
     extend: {
-      padding: { "fluid-video": "56.25%" }
+      padding: { "fluid-video": "56.25%" },
+      width: {
+        'md': '32rem',
+        'lg': '40rem'
+      },
+      height: {
+        'md': '40rem',
+        'lg': '50rem'
+      }
     },
     colors: {
       white: colors.white,

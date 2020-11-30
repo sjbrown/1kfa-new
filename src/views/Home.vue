@@ -3,7 +3,6 @@
 </template>
 
 <script>
-// @ is an alias to /src
 import ContentHome from "@/components/ContentHome.vue";
 
 export default {
