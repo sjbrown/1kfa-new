@@ -2,8 +2,19 @@
   <main class="container mx-auto min-h-screen mb-10">
     <section>
       <article class="grid justify-items-center">
-        <img src="../assets/images/ben_1kFA_red_on_brown.svg" alt="wordmark" />
-        <div class="flex flex-col md:flex-row md:px-8">
+        <div>
+          <img
+            src="../assets/images/ben_1kFA_red_on_brown.svg"
+            class="h-screen"
+            alt="wordmark"
+          />
+          <img
+            src="../assets/images/cover-art/kstramat_bw.jpg"
+            alt="1kfa art kastramat"
+          />
+        </div>
+
+        <div class="flex flex-col md:flex-row md:p-8">
           <h1 class="my-4 px-8 md:self-center">
             The tabletop roleplaying game for people who love boardgames
           </h1>

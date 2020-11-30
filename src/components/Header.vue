@@ -1,6 +1,6 @@
 <template>
   <header class="grid">
-    <div class="grid bg-orange-900 text-white">
+    <div class="grid bg-yellow-900 text-white">
       <nav class="flex gap-6 justify-self-end items-center">
         <router-link
           to="/downloads"
