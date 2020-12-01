@@ -17,4 +17,8 @@
     @apply text-xl;
   }
 
+  p {
+    @apply leading-7;
+  }
+
 }
