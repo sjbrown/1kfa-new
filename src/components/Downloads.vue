@@ -7,23 +7,32 @@
         <div class="book">
           <img
             alt="A thousand faces of adventure cover for player"
-            src="https://github.com/sjbrown/1kfa/blob/master/images_src/jeremyadams.jpg?raw=true"
+            src="../assets/images/cover-art/cover_jeremy_1200x1600.jpg"
           />
         </div>
       </div>
       <div class="flex flex-col items-center">
         <div class="m-4">
-          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+          <a
+            href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html"
+            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+          >
             Download HTML
           </a>
         </div>
         <div class="m-4">
-          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+          <a
+            href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf"
+            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+          >
             Download PDF
           </a>
         </div>
         <div class="m-4">
-          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+          <a
+            href="https://www.1kfa.com/playtest_files/1kfa_guide_player_phone.pdf"
+            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+          >
             Download Phone PDF
           </a>
         </div>
@@ -37,23 +46,32 @@
         <div class="book">
           <img
             alt="A thousand faces of adventure cover for GM"
-            src="https://github.com/sjbrown/1kfa/blob/master/images_src/AnaNarajo_darkcrystals_RGB.jpg?raw=true"
+            src="../assets/images/cover-art/cover_ana_1200x1600.jpg"
           />
         </div>
       </div>
       <div class="flex flex-col items-center">
         <div class="m-4">
-          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+          <a
+            href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html"
+            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+          >
             Download HTML
           </a>
         </div>
         <div class="m-4">
-          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+          <a
+            href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf"
+            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+          >
             Download PDF
           </a>
         </div>
         <div class="m-4">
-          <a href="" class="bg-green-700 text-white px-4 py-2 rounded">
+          <a
+            href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf"
+            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+          >
             Download Phone PDF
           </a>
         </div>
@@ -82,7 +100,9 @@
   </section>
   <section class="grid justify-center mb-20">
     <div>
-      <a class="bg-green-700 text-white px-20 py-2 rounded"
+      <a
+        class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300ß"
+        href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
         >Download the full kit</a
       >
     </div>

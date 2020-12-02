@@ -38,7 +38,7 @@
       </p>
       <router-link
         to="/examples"
-        class="bg-green-700 text-white px-4 py-2 rounded m-8"
+        class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
       >
         Check out the examples
       </router-link>
@@ -96,7 +96,7 @@
             class="object-cover"
           />
           <caption>
-            This is a cover
+            This is a coverf
           </caption>
         </div>
         <div class="p-8 overflow-hidden flex flex-col justify-center">
@@ -137,8 +137,8 @@
         designed for you.
       </p>
       <div class="grid gap-6 p-4 lg:grid-flow-col lg:mt-8">
-        <img class="xs:w-7/11" src="../assets/images/playtest-2.jpg" alt="" />
-        <img class="xs:w-7/11" src="../assets/images/playtest-4.jpg" alt="" />
+        <img class="xs:w-full" src="../assets/images/playtest-2.jpg" alt="" />
+        <img class="xs:w-full" src="../assets/images/playtest-4.jpg" alt="" />
       </div>
       <p class="mt-8 max-w-2xl px-4">
         When new players sit down to play, there's no hundred-page tome they're
@@ -154,7 +154,7 @@
       </p>
       <router-link
         to="/downloads"
-        class="bg-green-700 text-white px-4 py-2 rounded mt-8"
+        class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
       >
         Download the playtest kit
       </router-link>

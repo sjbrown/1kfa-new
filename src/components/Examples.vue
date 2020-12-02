@@ -69,7 +69,7 @@
         ></iframe>
       </div>
     </article>
-    <h2 class="text-center m-20">Examples of play</h2>
+    <h2 class="text-center mt-20">Examples of play</h2>
     <article>
       <div class="p-4 mt-4">
         <h3 class="mb-2 text-center">Start Script</h3>
