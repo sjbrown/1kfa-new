@@ -1,7 +1,7 @@
 <template>
   <header class="grid h-20 sticky top-0 z-10">
     <div class="grid bg-dark-brown text-milk opacity-90">
-      <nav class="flex gap-6 justify-self-end items-center">
+      <nav class="flex gap-6 justify-self-end items-center md:px-10">
         <div v-if="evaluateRoutes.notHomePage">
           <router-link to="/">Home</router-link>
         </div>

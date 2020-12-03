@@ -4,7 +4,7 @@
     <div v-if="this.$route.name == 'Home'">
       <img
         src="./assets/images/ben_1kFA_red_on_brown.svg"
-        class="h-screen bg-dark-brown"
+        class="h-screen bg-dark-brown w-screen"
         alt="wordmark"
       />
     </div>
