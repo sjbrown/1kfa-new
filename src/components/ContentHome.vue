@@ -68,7 +68,7 @@
             alt="1kfa cover"
             class="object-cover"
           />
-          <caption>
+          <caption class="pt-4">
             This is a cover
           </caption>
         </div>
@@ -78,7 +78,7 @@
             alt="1kfa cover"
             class="object-cover"
           />
-          <caption>
+          <caption class="pt-4">
             This is a cover
           </caption>
         </div>
@@ -88,7 +88,7 @@
             alt="1kfa cover"
             class="object-cover"
           />
-          <caption>
+          <caption class="pt-4">
             This is a coverf
           </caption>
         </div>
@@ -98,7 +98,7 @@
             alt="1kfa cover"
             class="object-cover"
           />
-          <caption>
+          <caption class="pt-4">
             This is a cover
           </caption>
         </div>
