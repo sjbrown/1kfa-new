@@ -1,6 +1,6 @@
 <template>
-  <header class="grid h-20">
-    <div class="grid bg-yellow-900 text-white">
+  <header class="grid h-20 sticky top-0 z-10">
+    <div class="grid bg-dark-brown text-milk opacity-90">
       <nav class="flex gap-6 justify-self-end items-center">
         <div v-if="evaluateRoutes.notHomePage">
           <router-link to="/">Home</router-link>
@@ -8,7 +8,7 @@
         <div v-if="evaluateRoutes.notDownloadPage">
           <router-link
             to="/downloads"
-            class="m-2 border-2 px-4 py-2 rounded hover:bg-yellow-600 transition duration-300 ease-in-out"
+            class="m-2 border-2 border-milk px-4 py-2 rounded hover:bg-orange-600 transition duration-300 ease-in-out"
           >
             Download playtest kit
           </router-link>

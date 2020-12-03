@@ -26,7 +26,10 @@ module.exports = {
       white: colors.white,
       gray: colors.trueGray,
       yellow: colors.amber,
-      green: colors.lime
+      green: colors.lime,
+      orange: colors.orange,
+      "dark-brown": "#271314",
+      milk: "#E2DAC8"
     }
   },
   variants: {},
