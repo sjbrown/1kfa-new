@@ -12,7 +12,7 @@
       </p>
       <img
         class="w-screen md:w-64 lg:w-2/5 p-4"
-        src="../assets/images/cards/face35_backstab.png"
+        src="../assets/images/cards/move_backstab.png"
         alt="trigger move backstab"
       />
       <div class="mt-8 overflow-hidden relative w-full pb-fluid-video lg:mr-8">
@@ -34,7 +34,7 @@
       </p>
       <img
         class="w-screen md:w-64 md:float-left lg:w-2/5 p-4"
-        src="../assets/images/cards/face05_i_know_this.png"
+        src="../assets/images/cards/move_i_know_this.png"
         alt="trigger move I know this"
       />
       <div class="mt-8 overflow-hidden relative w-full pb-fluid-video lg:mr-8">
@@ -48,7 +48,7 @@
       </div>
     </article>
     <article class="grid mt-10 justify-items-center">
-      <h3 class="mb-2 text-center">I know this</h3>
+      <h3 class="mb-2 text-center">Channel The Living Light</h3>
       <p class="md:mt-4 md:mx-20 m-2">
         In this clip, Pronce (Michael) triggers Channel The Living Light, to use
         his magic item, Sling of Unerring Dispatch. After a successful hit, the
@@ -56,8 +56,8 @@
       </p>
       <img
         class="w-screen md:w-64 md:float-left lg:w-2/5 p-4"
-        src="../assets/images/cards/face05_i_know_this.png"
-        alt="trigger move I know this"
+        src="../assets/images/cards/move_channel_the_living_light.png"
+        alt="trigger move channel the living light"
       />
       <div class="mt-8 overflow-hidden relative w-full pb-fluid-video lg:mr-8">
         <iframe

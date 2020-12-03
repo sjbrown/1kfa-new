@@ -28,6 +28,7 @@ module.exports = {
       yellow: colors.amber,
       green: colors.lime,
       orange: colors.orange,
+      blue: colors.blue,
       "dark-brown": "#271314",
       milk: "#E2DAC8"
     }

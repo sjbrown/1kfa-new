@@ -15,7 +15,7 @@
         <div class="m-4">
           <a
             href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html"
-            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
           >
             Download HTML
           </a>
@@ -23,7 +23,7 @@
         <div class="m-4">
           <a
             href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf"
-            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
           >
             Download PDF
           </a>
@@ -31,7 +31,7 @@
         <div class="m-4">
           <a
             href="https://www.1kfa.com/playtest_files/1kfa_guide_player_phone.pdf"
-            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
           >
             Download Phone PDF
           </a>
@@ -54,7 +54,7 @@
         <div class="m-4">
           <a
             href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html"
-            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
           >
             Download HTML
           </a>
@@ -62,7 +62,7 @@
         <div class="m-4">
           <a
             href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf"
-            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
           >
             Download PDF
           </a>
@@ -70,7 +70,7 @@
         <div class="m-4">
           <a
             href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf"
-            class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
           >
             Download Phone PDF
           </a>
@@ -101,7 +101,7 @@
   <section class="grid justify-center mb-20">
     <div>
       <a
-        class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300ß"
+        class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300ß"
         href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
         >Download the full kit</a
       >

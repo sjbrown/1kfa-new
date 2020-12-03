@@ -31,7 +31,7 @@
       </p>
       <router-link
         to="/examples"
-        class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+        class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
       >
         Check out the examples
       </router-link>
@@ -147,7 +147,7 @@
       </p>
       <router-link
         to="/downloads"
-        class="bg-green-700 text-white px-4 py-2 rounded m-8 hover:bg-green-600 transition-all duration-300"
+        class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
       >
         Download the playtest kit
       </router-link>
