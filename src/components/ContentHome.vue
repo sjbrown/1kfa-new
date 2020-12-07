@@ -61,26 +61,13 @@
         the innovation blossoming in indie role-playing games like Fate and
         Dungeon World.
       </p>
-      <div class="grid mt-8 lg:grid-cols-2 lg:grid-rows-2 lg:grid-flow-col">
+      <div class="grid mt-8 lg:auto-cols-3 lg:grid-flow-col">
         <div class="p-8 overflow-hidden flex flex-col justify-center">
           <img
-            src="../assets/images/cover-art/cover_ana_1200x1600.jpg"
+            src="../assets/images/cover-art/cover_ana_wordmark.png"
             alt="1kfa cover"
             class="object-cover"
           />
-          <caption class="pt-4">
-            This is a cover
-          </caption>
-        </div>
-        <div class="p-8 overflow-hidden flex flex-col justify-center">
-          <img
-            src="../assets/images/cover-art/cover_guillermo_1200x1600.jpg"
-            alt="1kfa cover"
-            class="object-cover"
-          />
-          <caption class="pt-4">
-            This is a cover
-          </caption>
         </div>
         <div class="p-8 overflow-hidden flex flex-col justify-center">
           <img
@@ -88,9 +75,6 @@
             alt="1kfa cover"
             class="object-cover"
           />
-          <caption class="pt-4">
-            This is a coverf
-          </caption>
         </div>
         <div class="p-8 overflow-hidden flex flex-col justify-center">
           <img
@@ -98,9 +82,6 @@
             alt="1kfa cover"
             class="object-cover"
           />
-          <caption class="pt-4">
-            This is a cover
-          </caption>
         </div>
       </div>
     </article>

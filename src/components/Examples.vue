@@ -108,6 +108,16 @@
         ></iframe>
       </div>
     </article>
+    <article class="grid mt-10 justify-items-center">
+      <h2>Contribute your own</h2>
+      <p class="mt-4">
+        If you would like to contribute to the examples of play -- either text
+        or video -- you can
+        <a class="underline text-orange-900 font-semibold" href="sjb@ezide.com"
+          >send me an email</a
+        >.
+      </p>
+    </article>
   </section>
 </template>
 <script>

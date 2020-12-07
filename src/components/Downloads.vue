@@ -46,7 +46,7 @@
         <div class="book">
           <img
             alt="A thousand faces of adventure cover for GM"
-            src="../assets/images/cover-art/cover_ana_1200x1600.jpg"
+            src="../assets/images/cover-art/cover_ana_wordmark.png"
           />
         </div>
       </div>
@@ -99,13 +99,12 @@
     </article>
   </section>
   <section class="grid justify-center mb-20">
-    <div>
-      <a
-        class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300ß"
-        href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
-        >Download the full kit</a
-      >
-    </div>
+    <a
+      class="text-center bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300ß"
+      href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
+      >Download the full kit</a
+    >
+    <p>(includes print-and-play cards and character sheets)</p>
   </section>
 </template>
 <script>
