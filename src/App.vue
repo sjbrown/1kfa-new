@@ -8,7 +8,7 @@
         alt="wordmark"
       />
     </div>
-    <main class="flex-grow lg:container lg:mx-auto min-h-screen mb-10">
+    <main class="flex-grow md:container md:mx-auto min-h-screen mb-10">
       <router-view></router-view>
     </main>
     <Footer />

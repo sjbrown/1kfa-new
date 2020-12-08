@@ -1,5 +1,5 @@
 <template>
-  <ul class="grid container px-8 mt-20">
+  <ul class="grid mt-20 max-w-2xl m-auto p-4">
     <li>
       <h2 class="mb-8">What's Role-playing?</h2>
       <p>
