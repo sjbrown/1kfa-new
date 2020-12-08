@@ -13,23 +13,27 @@ const routes = [
   {
     path: '/examples',
     name: 'ExamplesPage',
-    component: ExamplesPage
+    component: ExamplesPage,
   },
   {
     path: '/downloads',
     name: 'DownloadsPage',
-    component: DownloadsPage
+    component: DownloadsPage,
   },
   {
     path: '/faq',
     name: 'FaqPage',
-    component: FAQ
+    component: FAQ,
   },
 ]
 
 const router = createRouter({
   history: createWebHashHistory(),
-  routes
+  routes,
+  // eslint-disable-next-line
+  scrollBehavior(to, from, savedPosition) {
+    return { top: 0 }
+  }
 })
 
 export default router

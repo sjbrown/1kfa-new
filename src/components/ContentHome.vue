@@ -186,8 +186,6 @@ export default {
         .querySelector(".card__container")
         .getBoundingClientRect();
 
-      console.log("position", container.bottom);
-
       if (window.innerWidth < "450") {
         if (container.bottom > 1100) {
           blueCard.style.setProperty("transform", "translate(0, -17rem)");
