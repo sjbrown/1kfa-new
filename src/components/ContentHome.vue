@@ -6,25 +6,21 @@
           The tabletop roleplaying game for people who love boardgames
         </h1>
         <ul
-          class="grid justify-items-center md:w-56 h-80 md:h-56 card__container"
+          class="grid h-80 justify-items-center md:w-56 md:h-56 card__container"
         >
-          <li class="z-20" @click="onHoverCard">
+          <li class="z-20">
             <img
               src="../assets/images/card-back-black.svg"
               alt="card design black"
             />
           </li>
-          <li
-            class="md:w-56 card--blue z-10 transition-all duration-150 transform -translate-y-70 md:transform md:-translate-y-56"
-          >
+          <li class="md:w-56 card--blue z-10 transition-all duration-150">
             <img
               src="../assets/images/card-back-blue.svg"
               alt="card design blue"
             />
           </li>
-          <li
-            class="md:w-56 card--red z-2 transition-all duration-150 transform -translate-y-100 md:transform md:-translate-y-96"
-          >
+          <li class="md:w-56 card--red z-2 transition-all duration-150">
             <img
               src="../assets/images/card-back-red.svg"
               alt="card design red"
