@@ -2,7 +2,7 @@
   <section>
     <h1 class="text-center m-10">Playtest examples</h1>
     <h2 class="text-center">Triggering moves</h2>
-    <article class="grid mt-10 justify-items-center">
+    <article class="grid mt-10 mx-4 justify-items-center">
       <h3 class="mb-2 text-center">Backstab</h3>
       <p class="md:mt-4 md:mx-20 m-2">
         In this clip Kazul (Alex) tries to sneak up behind the lizard priest and
@@ -25,7 +25,7 @@
         ></iframe>
       </div>
     </article>
-    <article class="grid mt-10 justify-items-center">
+    <article class="grid mt-10 mx-4 justify-items-center">
       <h3 class="mb-2 text-center">I know this</h3>
       <p class="md:mt-4 md:mx-20 m-2">
         In this clip, the table discusses possible options for the "Yoshi" PC
@@ -47,7 +47,7 @@
         ></iframe>
       </div>
     </article>
-    <article class="grid mt-10 justify-items-center">
+    <article class="grid mt-10 mx-4 justify-items-center">
       <h3 class="mb-2 text-center">Channel The Living Light</h3>
       <p class="md:mt-4 md:mx-20 m-2">
         In this clip, Pronce (Michael) triggers Channel The Living Light, to use
@@ -70,8 +70,8 @@
       </div>
     </article>
     <h2 class="text-center mt-20">Examples of play</h2>
-    <article>
-      <div class="p-4 mt-4">
+    <article class="mx-4">
+      <div class="mt-4">
         <h3 class="mb-2 text-center">Start Script</h3>
         <p class="grid-flow-col">
           This is the Start Script (version as of May 10, 2018, when the working
@@ -89,8 +89,8 @@
         ></iframe>
       </div>
     </article>
-    <article>
-      <div class="p-4 mt-4">
+    <article class="m-4">
+      <div class="mt-4">
         <h3 class="mb-2 text-center">Full Session</h3>
         <p class="grid-flow-col">
           A full session of play (version as of May 10, 2018, when the working
@@ -108,7 +108,7 @@
         ></iframe>
       </div>
     </article>
-    <article class="grid mt-10 justify-items-center">
+    <article class="grid mt-10 m-4 justify-items-center">
       <h2>Contribute your own</h2>
       <p class="mt-4">
         If you would like to contribute to the examples of play -- either text

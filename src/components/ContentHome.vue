@@ -1,15 +1,36 @@
 <template>
   <section>
     <article class="grid justify-items-center">
-      <div class="flex flex-col md:flex-row md:p-8">
+      <div class="flex flex-col md:flex-row md:p-16 mt-4">
         <h1 class="my-4 px-8 md:self-center max-w-lg">
           The tabletop roleplaying game for people who love boardgames
         </h1>
-        <img
-          src="../assets/images/deckahedron_back_white_black.svg"
-          alt="card design black"
-          class="md:w-56"
-        />
+        <ul
+          class="grid justify-items-center md:w-56 h-80 md:h-56 card__container"
+        >
+          <li class="z-20" @click="onHoverCard">
+            <img
+              src="../assets/images/card-back-black.svg"
+              alt="card design black"
+            />
+          </li>
+          <li
+            class="md:w-56 card--blue z-10 transition-all duration-150 transform -translate-y-70 md:transform md:-translate-y-56"
+          >
+            <img
+              src="../assets/images/card-back-blue.svg"
+              alt="card design blue"
+            />
+          </li>
+          <li
+            class="md:w-56 card--red z-2 transition-all duration-150 transform -translate-y-100 md:transform md:-translate-y-96"
+          >
+            <img
+              src="../assets/images/card-back-red.svg"
+              alt="card design red"
+            />
+          </li>
+        </ul>
       </div>
       <p class="max-w-2xl px-4">
         A Thousand Faces of Adventure is a narrative board game about gathering
@@ -151,5 +172,52 @@
 <script>
 export default {
   name: "Content",
+  mounted() {
+    window.addEventListener("scroll", this.handleScroll);
+  },
+  unmounted() {
+    window.removeEventListener("scroll", this.handleScroll);
+  },
+  methods: {
+    handleScroll() {
+      const blueCard = document.querySelector(".card--blue");
+      const redCard = document.querySelector(".card--red");
+      const container = document
+        .querySelector(".card__container")
+        .getBoundingClientRect();
+
+      console.log("position", container.bottom);
+
+      if (window.innerWidth < "450") {
+        if (container.bottom > 1100) {
+          blueCard.style.setProperty("transform", "translate(0, -17rem)");
+          redCard.style.setProperty("transform", "translate(0, -34rem)");
+        } else if (container.bottom < 790) {
+          blueCard.style.setProperty(
+            "transform",
+            "translate(2rem, -16rem) rotate(10deg)"
+          );
+          redCard.style.setProperty(
+            "transform",
+            "translate(2rem, -32rem) rotate(20deg)"
+          );
+        }
+      } else if (window.innerWidth > "650") {
+        if (container.bottom > 600) {
+          blueCard.style.setProperty("transform", "translate(0, -14rem)");
+          redCard.style.setProperty("transform", "translate(0, -28rem)");
+        } else if (container.bottom < 855) {
+          blueCard.style.setProperty(
+            "transform",
+            "translate(2rem, -14rem) rotate(10deg)"
+          );
+          redCard.style.setProperty(
+            "transform",
+            "translate(2rem, -28rem) rotate(24deg)"
+          );
+        }
+      }
+    },
+  },
 };
 </script>

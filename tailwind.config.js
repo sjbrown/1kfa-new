@@ -20,6 +20,14 @@ module.exports = {
       height: {
         'md': '40rem',
         'lg': '50rem'
+      },
+      translate: {
+        '6/7': '85.7142857%',
+      },
+      spacing: {
+        '70': "17rem",
+        '96': '28rem',
+        '100': '34rem'
       }
     },
     colors: {
@@ -33,6 +41,7 @@ module.exports = {
       milk: "#E2DAC8"
     }
   },
-  variants: {},
+  variants: {
+  },
   plugins: [],
 }
