@@ -46,7 +46,7 @@
         <div class="book">
           <img
             alt="A thousand faces of adventure cover for GM"
-            src="../assets/images/cover-art/cover_ana_wordmark.png"
+            src="../assets/images/cover-art/cover_ana_wordmark.jpg"
           />
         </div>
       </div>

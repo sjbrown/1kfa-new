@@ -74,14 +74,14 @@
     <div class="grid mt-8 lg:auto-cols-3 lg:grid-flow-col">
       <div class="p-8 overflow-hidden flex flex-col justify-center">
         <img
-          src="../assets/images/cover-art/cover_ana_wordmark.png"
+          src="../assets/images/cover-art/cover_jeremy_1200x1600.jpg"
           alt="1kfa cover"
           class="object-cover"
         />
       </div>
       <div class="p-8 overflow-hidden flex flex-col justify-center">
         <img
-          src="../assets/images/cover-art/cover_jeremy_1200x1600.jpg"
+          src="../assets/images/cover-art/cover_ana_wordmark.jpg"
           alt="1kfa cover"
           class="object-cover"
         />
