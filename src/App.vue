@@ -2,11 +2,6 @@
   <div class="flex flex-col min-h-screen">
     <Header />
     <div v-if="this.$route.name == 'Home'">
-      <!-- <img
-        src="./assets/images/logo.svg"
-        class="h-screen bg-dark-brown w-screen logo--animation"
-        alt="wordmark"
-      /> -->
       <svg
         class="h-screen bg-dark-brown w-screen logo--animation"
         xmlns="http://www.w3.org/2000/svg"

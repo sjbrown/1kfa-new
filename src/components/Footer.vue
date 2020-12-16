@@ -3,7 +3,10 @@
     <h3>Stay tuned</h3>
     <ul class="flex gap-4">
       <li>
-        <a href="https://github.com/sjbrown/1kfa" target="_blank"
+        <a
+          href="https://github.com/sjbrown/1kfa"
+          target="_blank"
+          aria-label="social icon github"
           ><svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -26,6 +29,7 @@
         <a
           href="https://boardcrafting.wordpress.com/subscribe/"
           target="_blank"
+          aria-label="social icon rss"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -45,7 +49,11 @@
         ></a>
       </li>
       <li>
-        <a href="https://twitter.com/boardcrafting" target="_blank">
+        <a
+          href="https://twitter.com/boardcrafting"
+          target="_blank"
+          aria-label="social icon twitter"
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
