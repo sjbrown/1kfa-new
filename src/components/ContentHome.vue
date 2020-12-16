@@ -9,13 +9,13 @@
       >
         <li class="z-20">
           <img
-            src="../assets/images/card-back-black.svg"
+            src="@/assets/images/card-back-black.svg"
             alt="card design black"
           />
         </li>
         <li class="md:w-56 card--blue z-10 transition-all duration-150">
           <img
-            src="../assets/images/card-back-blue.svg"
+            src="@/assets/images/card-back-blue.svg"
             alt="card design blue"
           />
         </li>
