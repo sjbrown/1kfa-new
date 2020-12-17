@@ -37,6 +37,7 @@ module.exports = {
       green: colors.lime,
       orange: colors.orange,
       blue: colors.blue,
+      teal:colors.teal,
       "dark-brown": "#271314",
       milk: "#E2DAC8"
     }
