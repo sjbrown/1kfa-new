@@ -1507,7 +1507,10 @@
         </g>
       </svg>
     </div>
-    <main class="flex-grow md:container md:mx-auto min-h-screen mb-10">
+    <main
+      class="flex-grow md:mx-auto min-h-screen mb-10"
+      :class="{ 'md:container': this.$route.name != 'FaqPage' }"
+    >
       <router-view></router-view>
     </main>
     <Footer />

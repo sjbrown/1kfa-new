@@ -1,6 +1,9 @@
 <template>
   <footer>
-    <article class="grid justify-items-center pb-20 bg-gray-50">
+    <article
+      v-if="this.$route.name == 'Home'"
+      class="grid justify-items-center pb-20 bg-gray-50"
+    >
       <h2 class="mt-20 text-center">About the author</h2>
       <div
         class="mt-8 overflow-hidden relative md:w-3/5 pb-fluid-video border-t-4 border-yellow-400"
