@@ -43,7 +43,7 @@
     </p>
     <router-link
       to="/examples"
-      class="w-11/12 m-8 md:w-56 text-center bg-yellow-700 text-white px-4 py-2 rounded hover:bg-orange-500 transition-all duration-300"
+      class="w-11/12 m-8 text-lg md:w-64 text-center bg-yellow-700 text-white px-4 py-2 rounded hover:bg-orange-500 transition-all duration-300"
     >
       Check out the examples
     </router-link>
@@ -164,23 +164,10 @@
     </p>
     <router-link
       to="/downloads"
-      class="w-full md:w-56 text-center bg-yellow-700 text-white px-4 py-2 rounded m-8 hover:bg-orange-500 transition-all duration-300"
+      class="w-11/12 md:w-64 text-lg text-center bg-yellow-700 text-white px-4 py-2 rounded m-8 hover:bg-orange-500 transition-all duration-300"
     >
       Download the playtest kit
     </router-link>
-  </article>
-  <article class="grid justify-items-center my-20">
-    <h2>About the author</h2>
-    <div class="mt-8 overflow-hidden relative w-full pb-fluid-video">
-      <iframe
-        class="absolute top-0 left-0 w-full h-full"
-        src="https://www.youtube.com/embed/jhUcS00YTTQ"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        title="About Boardcrafting"
-      ></iframe>
-    </div>
   </article>
 </template>
 
