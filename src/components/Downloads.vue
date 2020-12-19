@@ -2,7 +2,9 @@
   <h1 class="text-center mt-20 mb-10">What's inside the kit?</h1>
   <section class="flex flex-col justify-center mb-20">
     <h2 class="text-center mb-10">Player's guide</h2>
-    <article class="grid md:grid-flow-col justify-items-center mt-10">
+    <article
+      class="grid md:grid-flow-col justify-items-center mt-10 m-auto md:gap-10"
+    >
       <div class="book-container mb-20">
         <div class="book">
           <img
@@ -12,26 +14,25 @@
         </div>
       </div>
       <div class="flex flex-col items-center">
-        <div class="m-4">
-          <a
-            href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html"
-            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
-          >
+        <div
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html">
             Download HTML
           </a>
         </div>
-        <div class="m-4">
-          <a
-            href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf"
-            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
-          >
+        <div
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf">
             Download PDF
           </a>
         </div>
-        <div class="m-4">
+        <div
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
           <a
             href="https://www.1kfa.com/playtest_files/1kfa_guide_player_phone.pdf"
-            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
           >
             Download Phone PDF
           </a>
@@ -41,7 +42,9 @@
   </section>
   <section class="flex flex-col justify-center mb-20">
     <h2 class="text-center mb-10">Game master's guide</h2>
-    <article class="grid md:grid-flow-col justify-items-center mt-10">
+    <article
+      class="grid md:grid-flow-col justify-items-center mt-10 m-auto md:gap-10"
+    >
       <div class="book-container mb-20">
         <div class="book">
           <img
@@ -51,27 +54,24 @@
         </div>
       </div>
       <div class="flex flex-col items-center">
-        <div class="m-4">
-          <a
-            href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html"
-            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
-          >
+        <div
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html">
             Download HTML
           </a>
         </div>
-        <div class="m-4">
-          <a
-            href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf"
-            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
-          >
+        <div
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf">
             Download PDF
           </a>
         </div>
-        <div class="m-4">
-          <a
-            href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf"
-            class="bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300"
-          >
+        <div
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf">
             Download Phone PDF
           </a>
         </div>
@@ -80,7 +80,9 @@
   </section>
   <section class="flex flex-col justify-center mb-20">
     <h2 class="text-center mb-10">Print-and-play cards</h2>
-    <article class="grid md:grid-flow-col justify-items-center">
+    <article
+      class="max-w-4xl m-auto grid md:grid-flow-col justify-items-center"
+    >
       <img
         src="../assets/images/cards/move_pick_pockets.png"
         alt="bracers card"
@@ -98,12 +100,14 @@
       />
     </article>
   </section>
-  <section class="grid justify-center mb-20">
-    <a
-      class="text-center bg-blue-600 text-white px-4 py-2 rounded m-8 hover:bg-blue-500 transition-all duration-300ß"
-      href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
-      >Download the full kit</a
+  <section class="grid justify-items-center mb-20 m-4">
+    <div
+      class="w-full md:w-80 text-center text-lg bg-yellow-700 text-white p-4 rounded m-8 hover:bg-yellow-500 transition-all duration-300"
     >
+      <a href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
+        >Download the full kit</a
+      >
+    </div>
     <p>(includes print-and-play cards and character sheets)</p>
   </section>
 </template>

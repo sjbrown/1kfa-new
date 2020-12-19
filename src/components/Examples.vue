@@ -92,15 +92,15 @@
           that have never played before.
         </p>
       </div>
-      <div class="mt-8 overflow-hidden relative w-full pb-fluid-video">
-        <iframe
-          class="absolute top-0 left-0 w-full h-full"
-          src="https://www.youtube.com/embed/Vvnt06UfOr8"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>
-      </div>
+      <iframe
+        class="mt-10 justify-self-center w-full md:w-80"
+        width="00"
+        height="200"
+        src="https://www.youtube.com/embed/Vvnt06UfOr8"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
     </article>
     <article class="mx-4 grid mt-10 justify-items-center">
       <div class="mt-4">
@@ -111,15 +111,15 @@
           played a role-playing game before.
         </p>
       </div>
-      <div class="mt-8 overflow-hidden relative w-full pb-fluid-video">
-        <iframe
-          class="absolute top-0 left-0 w-full h-full"
-          src="https://www.youtube.com/embed/K2uRJQa4F8o"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>
-      </div>
+      <iframe
+        class="mt-10 justify-self-center w-full md:w-80"
+        width="300"
+        height="200"
+        src="https://www.youtube.com/embed/K2uRJQa4F8o"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
     </article>
     <article class="grid mt-10 m-4 justify-items-center">
       <h2>Contribute your own</h2>
