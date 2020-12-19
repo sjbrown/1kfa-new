@@ -85,7 +85,11 @@
       innovation blossoming in indie role-playing games like Fate and Dungeon
       World.
     </p>
-    <div class="grid mt-8 lg:auto-cols-3 lg:grid-flow-col">
+    <div
+      class="grid mt-8 lg:auto-cols-3 lg:grid-flow-col"
+      data-aos="fade"
+      data-aos-duration="1500"
+    >
       <div class="p-8 overflow-hidden flex flex-col justify-center">
         <img
           src="../assets/images/cover-art/cover_jeremy_1200x1600.jpg"
@@ -146,7 +150,11 @@
       play-to-find-out-what-happens? A Thousand Faces of Adventure was designed
       for you.
     </p>
-    <div class="grid gap-6 p-4 lg:grid-flow-col lg:mt-8">
+    <div
+      class="grid gap-6 p-4 lg:grid-flow-col lg:mt-8"
+      data-aos="fade"
+      data-aos-duration="1500"
+    >
       <img class="xs:w-full" src="../assets/images/playtest-2.jpg" alt="" />
       <img class="xs:w-full" src="../assets/images/playtest-4.jpg" alt="" />
     </div>
