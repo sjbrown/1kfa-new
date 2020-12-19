@@ -6,7 +6,7 @@
     >
       <h2 class="mt-20 text-center">About the author</h2>
       <div
-        class="mt-8 overflow-hidden relative md:w-3/5 pb-fluid-video border-t-4 border-yellow-400"
+        class="mt-8 overflow-hidden relative pb-fluid-video w-full md:w-11/12 border-t-4 border-yellow-400"
       >
         <iframe
           class="absolute top-0 left-0 w-full h-full"
