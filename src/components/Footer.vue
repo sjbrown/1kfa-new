@@ -2,14 +2,26 @@
   <footer>
     <article
       v-if="this.$route.name == 'Home'"
-      class="grid justify-items-center pb-20 bg-gray-50"
+      class="grid justify-items-center bg-teal-50"
     >
-      <h2 class="mt-20 text-center">About the author</h2>
+      <h2 class="mt-20 text-center mb-10">About the author</h2>
       <div
-        class="mt-8 overflow-hidden relative pb-fluid-video w-full md:w-11/12 border-t-4 border-yellow-400"
+        class="mt-8 pb-20 flex flex-col lg:flex-row lg:w-4/5 max-w-7xl gap-8 w-full items-center"
       >
+        <div class="flex flex-col items-center max-w-sm gap-4">
+          <img
+            class="w-1/3 lg:w-7/12"
+            vue-svg-inline
+            src="../assets/images/author.svg"
+            alt="author illustration"
+          />
+          <p class="w-3/4">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et dolorum
+            dolorem aliquid nisi quisquam alias deserunt minus eaque
+          </p>
+        </div>
         <iframe
-          class="absolute top-0 left-0 w-full h-full"
+          class="w-full h-72 xl:h-100 border-t-4 border-teal-600"
           src="https://www.youtube.com/embed/jhUcS00YTTQ"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -19,9 +31,9 @@
       </div>
     </article>
     <article
-      class="py-8 bg-dark-brown text-milk grid justify-items-center gap-4"
+      class="py-10 bg-dark-brown text-milk grid justify-items-center gap-4"
     >
-      <h3>Stay tuned</h3>
+      <h3 class="mt-4">Stay tuned</h3>
       <ul class="flex gap-4">
         <li>
           <a

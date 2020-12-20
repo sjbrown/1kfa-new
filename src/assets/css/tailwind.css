@@ -4,12 +4,12 @@
 
 @layer base {
   h1 {
-    @apply text-3xl;
+    @apply text-4xl;
     font-family: 'Tinos';
   }
 
   h2 {
-    @apply text-2xl;
+    @apply text-3xl;
     font-family: 'Tinos';
   }
 
@@ -19,6 +19,7 @@
 
   p {
     @apply leading-7;
+    @apply text-gray-800;
   }
 
 }

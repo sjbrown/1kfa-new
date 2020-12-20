@@ -63,10 +63,11 @@
         />
       </svg>
       <div class="relative text-lg font-medium md:flex-grow">
-        <h1 class="relative z-20 text-yellow-900">
+        <h2 class="relative z-20 text-yellow-900">
           A Role-Playing Game That's a Board Game
-        </h1>
+        </h2>
       </div>
+      <!-- Pattern created by Olena Panasovska -->
       <svg
         width="50"
         height="50"
@@ -128,9 +129,9 @@
         />
       </svg>
       <div class="relative text-lg font-medium md:flex-grow">
-        <h1 class="relative z-20 text-yellow-900">
+        <h2 class="relative z-20 text-yellow-900">
           A Board Game That's a Role-Playing Game
-        </h1>
+        </h2>
       </div>
       <svg
         width="50"
@@ -151,12 +152,20 @@
       for you.
     </p>
     <div
-      class="grid gap-6 p-4 lg:grid-flow-col lg:mt-8"
+      class="grid gap-10 p-4 lg:grid-flow-col lg:mt-8"
       data-aos="fade"
       data-aos-duration="1500"
     >
-      <img class="xs:w-full" src="../assets/images/playtest-2.jpg" alt="" />
-      <img class="xs:w-full" src="../assets/images/playtest-4.jpg" alt="" />
+      <img
+        class="xs:w-full"
+        src="../assets/images/playtest-2.jpg"
+        alt="1kfa game components"
+      />
+      <img
+        class="xs:w-full"
+        src="../assets/images/playtest-4.jpg"
+        alt="1kfa game components"
+      />
     </div>
     <p class="mt-8 max-w-2xl px-4">
       When new players sit down to play, there's no hundred-page tome they're
