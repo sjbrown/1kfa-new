@@ -11,7 +11,6 @@
         <div class="flex flex-col items-center max-w-sm gap-4">
           <img
             class="w-1/3 lg:w-7/12"
-            vue-svg-inline
             src="../assets/images/author.svg"
             alt="author illustration"
           />
@@ -106,7 +105,7 @@
           </a>
         </li>
       </ul>
-      <p>1kfa @2020</p>
+      <p class="text-milk">1kfa @2020</p>
     </article>
   </footer>
 </template>
