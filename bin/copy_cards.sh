@@ -24,6 +24,7 @@ echo "-----------------------------------------------------"
 echo ""
 
 rm -rf "assets/cards_v$VERSION"
+mkdir -p assets
 cp deckahedron_site/dist/$VERSION/cards_v$VERSION.tar.gz ./
 tar -xvzf cards_v$VERSION.tar.gz
 cp -a cards_v$VERSION ./assets/cards_v$VERSION
