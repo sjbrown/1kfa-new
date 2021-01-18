@@ -15,8 +15,10 @@
             alt="author illustration"
           />
           <p class="w-3/4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Et dolorum
-            dolorem aliquid nisi quisquam alias deserunt minus eaque
+            Shandy Brown designs tabletop games, writes code, and commands
+            laser-shooting robots. With teachers like Leonard Cohen,
+            Albert Camus, and Joseph Campbell, Shandy has learned that
+            the sacred, profane, fantastic, and mundane are all the same thing.
           </p>
         </div>
         <iframe
