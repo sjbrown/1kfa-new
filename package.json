@@ -1,6 +1,6 @@
 {
-  "name": "1kfa-site",
-  "version": "0.1.0",
+  "name": "A Thousand Faces of Adventure",
+  "version": "0.93",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
