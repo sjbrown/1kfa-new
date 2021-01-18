@@ -66,6 +66,7 @@ echo "-----------------------------------------------------"
 echo ""
 
 cp deckahedron_site/dist/$VERSION/1kfa_playtest.tar.gz ./
+mkdir -p playtest_files
 tar -xvzf 1kfa_playtest.tar.gz
 cp 1kfa_playtest/1kfa_guide_*.* playtest_files/
 cp 1kfa_playtest.tar.gz playtest_files/1kfa_playtest.tgz
