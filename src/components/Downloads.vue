@@ -14,30 +14,24 @@
         </div>
       </div>
       <div class="flex flex-col items-center">
-        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html">
-          <div
-            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-          >
-            Download HTML
-          </div>
+        <a
+          href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html"
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          Download HTML
         </a>
-
-        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf">
-          <div
-            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-          >
-            Download PDF
-          </div>
+        <a
+          href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf"
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          Download PDF
         </a>
 
         <a
           href="https://www.1kfa.com/playtest_files/1kfa_guide_player_phone.pdf"
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
         >
-          <div
-            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-          >
-            Download Phone PDF
-          </div>
+          Download Phone PDF
         </a>
       </div>
     </article>
@@ -56,28 +50,23 @@
         </div>
       </div>
       <div class="flex flex-col items-center">
-        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html">
-          <div
-            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-          >
-            Download HTML
-          </div>
+        <a
+          href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html"
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          Download HTML
         </a>
-
-        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf">
-          <div
-            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-          >
-            Download PDF
-          </div>
+        <a
+          href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf"
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          Download PDF
         </a>
-
-        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf">
-          <div
-            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-          >
-            Download Phone PDF
-          </div>
+        <a
+          href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf"
+          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+        >
+          Download Phone PDF
         </a>
       </div>
     </article>
@@ -105,12 +94,11 @@
     </article>
   </section>
   <section class="grid justify-items-center mb-20 m-4">
-    <a href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz">
-      <div
-        class="w-full md:w-80 text-center text-lg bg-yellow-700 text-white p-4 rounded m-8 hover:bg-yellow-500 transition-all duration-300"
-      >
-        Download the full kit
-      </div>
+    <a
+      href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
+      class="w-full md:w-80 text-center text-lg bg-yellow-700 text-white p-4 rounded m-8 hover:bg-yellow-500 transition-all duration-300"
+    >
+      Download the full kit
     </a>
     <p>(includes print-and-play cards and character sheets)</p>
   </section>
