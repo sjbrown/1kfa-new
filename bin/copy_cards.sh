@@ -14,6 +14,7 @@ echo "----"
 echo "Beginning copy_cards.sh"
 
 BUILDDIR=$PWD
+source 1kfa/resolution_cards/version.py # Get the VERSION variable
 
 echo "-----------------------------------------------------"
 echo ""
