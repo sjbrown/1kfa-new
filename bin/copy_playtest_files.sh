@@ -31,7 +31,7 @@ then
   cd $BUILDDIR
 else
   rm -rf deckahedron_site
-  git clone https://github.com/sjbrown/deckahedron_site.git
+  git clone --depth=1 https://github.com/sjbrown/deckahedron_site.git
 fi
 
 
@@ -52,7 +52,7 @@ then
   cd $BUILDDIR
 else
   rm -rf 1kfa
-  git clone https://github.com/sjbrown/1kfa.git
+  git clone --depth=1 https://github.com/sjbrown/1kfa.git
 fi
 
 source 1kfa/resolution_cards/version.py # Get the VERSION variable

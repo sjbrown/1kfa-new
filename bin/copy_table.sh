@@ -25,7 +25,7 @@ then
   cd ..
 else
   rm -rf togetherness
-  git clone https://github.com/sjbrown/togetherness.git
+  git clone --depth=1 https://github.com/sjbrown/togetherness.git
 fi
 
 rm -rf $DESTDIR
