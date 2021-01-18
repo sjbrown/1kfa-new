@@ -14,29 +14,31 @@
         </div>
       </div>
       <div class="flex flex-col items-center">
-        <div
-          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-        >
-          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html">
+        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html">
+          <div
+            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+          >
             Download HTML
-          </a>
-        </div>
-        <div
-          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-        >
-          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf">
+          </div>
+        </a>
+
+        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf">
+          <div
+            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+          >
             Download PDF
-          </a>
-        </div>
-        <div
-          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+          </div>
+        </a>
+
+        <a
+          href="https://www.1kfa.com/playtest_files/1kfa_guide_player_phone.pdf"
         >
-          <a
-            href="https://www.1kfa.com/playtest_files/1kfa_guide_player_phone.pdf"
+          <div
+            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
           >
             Download Phone PDF
-          </a>
-        </div>
+          </div>
+        </a>
       </div>
     </article>
   </section>
@@ -54,27 +56,29 @@
         </div>
       </div>
       <div class="flex flex-col items-center">
-        <div
-          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-        >
-          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html">
+        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html">
+          <div
+            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+          >
             Download HTML
-          </a>
-        </div>
-        <div
-          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-        >
-          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf">
+          </div>
+        </a>
+
+        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf">
+          <div
+            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+          >
             Download PDF
-          </a>
-        </div>
-        <div
-          class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
-        >
-          <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf">
+          </div>
+        </a>
+
+        <a href="https://www.1kfa.com/playtest_files/1kfa_guide_gm_phone.pdf">
+          <div
+            class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
+          >
             Download Phone PDF
-          </a>
-        </div>
+          </div>
+        </a>
       </div>
     </article>
   </section>
@@ -101,13 +105,13 @@
     </article>
   </section>
   <section class="grid justify-items-center mb-20 m-4">
-    <div
-      class="w-full md:w-80 text-center text-lg bg-yellow-700 text-white p-4 rounded m-8 hover:bg-yellow-500 transition-all duration-300"
-    >
-      <a href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz"
-        >Download the full kit</a
+    <a href="https://www.1kfa.com/playtest_files/1kfa_playtest.tgz">
+      <div
+        class="w-full md:w-80 text-center text-lg bg-yellow-700 text-white p-4 rounded m-8 hover:bg-yellow-500 transition-all duration-300"
       >
-    </div>
+        Download the full kit
+      </div>
+    </a>
     <p>(includes print-and-play cards and character sheets)</p>
   </section>
 </template>
