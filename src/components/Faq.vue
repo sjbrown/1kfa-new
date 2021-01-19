@@ -4,7 +4,7 @@
       <img
         class="object-contain"
         src="../assets/images/cover-art/cover_guillermo_1200x1600.jpg"
-        alt="cover art from guillermo"
+        alt="page art from guillermo"
       />
     </div>
     <ul
@@ -109,10 +109,10 @@
         </p>
       </li>
     </ul>
-    <div class="w-full lg:mt-56">
+    <div class="w-full lg:mt-56 content-end">
       <img
         src="../assets/images/cover-art/cover_kim_1200x1600.jpg"
-        alt="cover art brandon"
+        alt="page art kim"
       />
     </div>
   </section>
