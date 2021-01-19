@@ -109,7 +109,7 @@
         </p>
       </li>
     </ul>
-    <div class="w-full lg:mt-56 content-end">
+    <div class="w-full lg:mt-56 self-end">
       <img
         src="../assets/images/cover-art/cover_kim_1200x1600.jpg"
         alt="page art kim"
