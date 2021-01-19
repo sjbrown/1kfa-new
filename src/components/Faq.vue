@@ -11,7 +11,7 @@
       class="grid max-w-2xl m-auto p-8 -mt-80 lg:mt-40 lg:-ml-20 bg-gray-50 border-t-4 border-yellow-400"
     >
       <li>
-        <h2 class="mb-8">What's Role-playing?</h2>
+        <h2 class="my-8">What's Role-playing?</h2>
         <p>
           Like a board game, a role-playing game is played by sitting around a
           table with your friends. <br />But, as a role-playing game, A Thousand
@@ -26,7 +26,7 @@
           series of milestones and prompts, but you need to play to find out the
           details of what happens
         </p>
-        <h2 class="mb-8">Is this just like Dungeons &amp; Dragons?</h2>
+        <h2 class="my-8">Is this just like Dungeons &amp; Dragons?</h2>
         <p>
           Well... <i>a little bit</i>.
           <br />
@@ -56,25 +56,25 @@
           but rather deck-building and managing the economy of XP tokens and
           mitigating risk by smart uses of "move" cards.
         </p>
-        <h2 class="mb-8">How long does it take to play?</h2>
+        <h2 class="my-8">How long does it take to play?</h2>
         <p>
           There are 3 formats included, a 3-hour (aka "One Shot"), a 9-hour,
           and a 30-hour campaign.
         </p>
-        <h2 class="mb-8">How much does it cost?</h2>
+        <h2 class="my-8">How much does it cost?</h2>
         <p>
           The retail cost has yet to be determined. Today, the "playtest"
           version is available for free. Follow @boardcrafting on Twitter
           or join discussions on the <code>/r/RPGdesign</code> subreddit
           to get updates about the availability of a retail product.
         </p>
-        <h2 class="mb-8">How many players are needed?</h2>
+        <h2 class="my-8">How many players are needed?</h2>
         <p>
           The game plays best with between 3 and 5 players. One of those
           players will be the GM, and the rest will play the adventurers
           of the story.
         </p>
-        <h2 class="mb-8">What do I need to play?</h2>
+        <h2 class="my-8">What do I need to play?</h2>
         <p>
           The playtest kit available on the Downloads page includes
           everything you will need to print-and-play at home. Additionally,
@@ -85,14 +85,14 @@
           (This tool has many other uses, the Deckahedron is found by clicking
           the "Cards" button)
         </p>
-        <h2 class="mb-8">Is there an online version?</h2>
+        <h2 class="my-8">Is there an online version?</h2>
         <p>
           A Thousand Faces of Adventure is 100% designed to be played with
           other human beings, ideally in person, but failing that, it can be
           played with video-conferencing tools and the above-mentioned
           <a href="https://www.1kfa.com/table">Togetherness Table</a>.
         </p>
-        <h2 class="mb-8">Is the GM playing *against* the other players?</h2>
+        <h2 class="my-8">Is the GM playing *against* the other players?</h2>
         <p>
           The GM should
           <a href="https://rpg.stackexchange.com/questions/161727/what-does-be-a-fan-of-the-characters-mean">be a fan of the characters</a>.
