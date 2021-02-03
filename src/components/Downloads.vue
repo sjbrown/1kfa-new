@@ -18,7 +18,7 @@
           href="https://www.1kfa.com/playtest_files/1kfa_guide_player.html"
           class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
         >
-          Download HTML
+          Read now (HTML)
         </a>
         <a
           href="https://www.1kfa.com/playtest_files/1kfa_guide_player.pdf"
@@ -54,7 +54,7 @@
           href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.html"
           class="m-4 grid justify-items-center w-full md:w-80 bg-yellow-700 text-white py-4 px-20 rounded hover:bg-yellow-500 transition-all duration-300"
         >
-          Download HTML
+          Read now (HTML)
         </a>
         <a
           href="https://www.1kfa.com/playtest_files/1kfa_guide_gm.pdf"
