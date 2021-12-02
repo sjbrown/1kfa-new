@@ -17,11 +17,8 @@ echo " Copying togetherness to ./$DESTDIR"
 echo ""
 echo "-----------------------------------------------------"
 echo ""
-
 rm -rf togetherness
 git clone --depth=1 https://github.com/sjbrown/togetherness.git
-git clone --depth=1 --branch=beta https://github.com/sjbrown/togetherness.git t_beta
-
 rm -rf $DESTDIR
 cp -a togetherness/src $DESTDIR
 
@@ -42,7 +39,8 @@ echo " Copying togetherness (beta branch) to ./$DESTDIR"
 echo ""
 echo "-----------------------------------------------------"
 echo ""
-cd ..
+rm -rf t_beta
+git clone --depth=1 --branch=beta https://github.com/sjbrown/togetherness.git t_beta
 rm -rf $DESTDIR
 cp -a t_beta/src $DESTDIR
 
