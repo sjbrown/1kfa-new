@@ -50,6 +50,9 @@ sed -i "/<\/head>/i data-cf-beacon=$BEACON" $DESTDIR/index.html
 sed -i '/<\/head>/i ><\/script>' $DESTDIR/index.html
 sed -i '/<\/head>/i<!-- END Cloudflare -->' $DESTDIR/index.html
 
+ls deckahedron
+ls table
+
 
 DESTDIR=table_beta
 echo "-----------------------------------------------------"
