@@ -32,14 +32,15 @@ cp -a $SCRATCHDIR/table/deckahedron ./dist/deckahedron
 cp -a $SCRATCHDIR/table/img ./dist/img
 cp -a $SCRATCHDIR/table/svg ./dist/svg
 cp -a $SCRATCHDIR/table/animate.css ./dist/animate.css
-cp -a $SCRATCHDIR/table_beta ./dist/table_beta
+#cp -a $SCRATCHDIR/table_beta ./dist/table_beta
 
 # Scrape git to populate the LATEST_UPDATE section on the home page
-cd $SCRATCHDIR/1kfa
-UPDATE=`git log |grep '\[UPDATE\]' | head -1 - | awk '{$1=""; print $0}'`
-UPDATE_SPACE_TRIMMED="$(sed -e 's/[[:space:]]*$//' <<<${UPDATE})"
-echo "Last update: $UPDATE_SPACE_TRIMMED"
+#cd $SCRATCHDIR/1kfa
+#UPDATE=`git log |grep '\[UPDATE\]' | head -1 - | awk '{$1=""; print $0}'`
+#UPDATE_SPACE_TRIMMED="$(sed -e 's/[[:space:]]*$//' <<<${UPDATE})"
+#echo "Last update: $UPDATE_SPACE_TRIMMED"
 
+find ./dist
 
 echo "Finished! 1kFA Netlify Build Script"
 echo "----"
