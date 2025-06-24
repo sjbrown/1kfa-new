@@ -29,6 +29,9 @@ cp -a $SCRATCHDIR/playtest_files ./dist/playtest_files
 cp -a $SCRATCHDIR/assets ./dist/assets
 cp -a $SCRATCHDIR/table ./dist/table
 cp -a $SCRATCHDIR/table/deckahedron ./dist/deckahedron
+cp -a $SCRATCHDIR/table/img ./dist/img
+cp -a $SCRATCHDIR/table/svg ./dist/svg
+cp -a $SCRATCHDIR/table/animate.css ./dist/animate.css
 cp -a $SCRATCHDIR/table_beta ./dist/table_beta
 
 # Scrape git to populate the LATEST_UPDATE section on the home page
